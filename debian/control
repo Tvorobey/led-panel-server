@@ -1,0 +1,16 @@
+Source: led-panel-server
+Section: unknown
+Priority: optional
+Maintainer: admin <user@unknown>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.1
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/led-panel-server
+#Vcs-Git: https://salsa.debian.org/debian/led-panel-server.git
+
+Package: led-panel-server
+Architecture: any
+#Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

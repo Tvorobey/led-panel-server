@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>iconfinder_Bus_6811943.png</file>
+        <file>iconfinder_aiga_bus_inv_134141.png</file>
+        <file>bus-1.png</file>
+        <file>bus-2.png</file>
+        <file>marshrutka.png</file>
+    </qresource>
+</RCC>
